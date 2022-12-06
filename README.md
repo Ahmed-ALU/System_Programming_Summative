@@ -4,7 +4,7 @@
 ******************************
 
 
-## Project 01
+##  Project 01
 *********************************
 
 - You have been tasked to develop a program tar process creation and termination on a Linux platform. 
