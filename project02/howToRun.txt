@@ -1,0 +1,5 @@
+1- Open three terminals (one for openning the server and two for two clients)
+2- in the first terminal, write <./server port_number (ex:4040)>
+3- in the second terminal, write <./client port_number (must be the same port)>
+4- in the third terminal, write <./client port_number (must be the same port)>
+5- you can message now between clients.

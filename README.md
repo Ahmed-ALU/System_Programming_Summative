@@ -1,4 +1,4 @@
-# C_Process_Creation_and_Termination
+# System Programming Summative Projects
 ********************************
 ***This repository contains The summative projetcs for System programming course, Year 3 at ALU. There are two projects, the frist one is abut processes creation and termination in Unix using Fork() and Wait() Syscalls, and the second one is about...***
 ******************************
@@ -32,9 +32,31 @@ instead of creating multiple child processes of a parent process, you are asked 
 
 The last child created should print out the message and exit immediately so that its ancestors can finish too. Test your program with 2, 4, and 8 child processes again.
 
-## Required Files
+### Required Files
 ***********************
 - Develop a **Make-file**, to automate the compilation process. 
 
 
 - Develop a **shell script** to automate the test process, i.e. to test Wth 2, 4, and 8 children processes for both versions of the program automatically with this script. 
+
+
+*********************************
+##  Project 02
+*********************************
+
+Create a **Client-Server** application where you can use the concepts of inter-process communication IPC, multithreading and synchronization.
+
+*************************
+**Requirements** 
+        
+        1- Create a server to make one client to communicate with one or more other clients.
+        2- Use socket to connecting the sever and the client. The server forms the listener socket while the client reaches out to the server.
+        3- Many clients should be able to communicate at the same time.
+
+**************************************
+
+## Aurthors :
+- Ahmed Mohamed
+- Adama Abobacar
+- Gabin Ishimwi
+- Tona Daphine
